@@ -21,7 +21,7 @@ Answer should be posted in a git repo.
 - Run ```gridmedian``` for usage
 
 To run unit tests:
- - ```make test```
+ - ```make unittest```
 
 Special flags:
 - The DEBUG_PRINT_FRAMES compiler flag can be used to print keyframes of a video to disk for testing purposes.
